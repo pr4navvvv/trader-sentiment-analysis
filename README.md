@@ -82,9 +82,11 @@ This helps identify different trading styles and performance patterns.
 
 ---
 
+
 ## Project Structure
+
 ```
-```trader-sentiment-analysis/
+trader-sentiment-analysis/
 │
 ├── primetrade_analysis.ipynb
 ├── historical_data.xlsx
