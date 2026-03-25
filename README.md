@@ -1,5 +1,12 @@
 # Primetrade.ai Data Science Assignment
 
+## How to Run
+1. Install requirements: pip install pandas openpyxl matplotlib seaborn scikit-learn
+2. Place both Excel files in the same folder as the notebook
+3. Open primetrade_analysis.ipynb in Jupyter and run all cells
+
+---
+
 ## Project Overview
 This project analyzes historical cryptocurrency trading data together with the Fear & Greed market sentiment index to identify patterns in trader behaviour, profitability, and risk exposure.
 
@@ -69,6 +76,28 @@ This helps identify different trading styles and performance patterns.
 - Execution price alone is not a strong predictor of profitability
 - Consistent traders tend to achieve more stable returns
 - Different trader groups exhibit distinct risk and performance profiles
+
+---
+
+## Key Insights
+
+- Market sentiment influences trading behaviour and profitability patterns.
+- Trades executed during **Extreme Greed** periods show higher average PnL but also higher variability, indicating increased risk-taking behaviour.
+- Trade size has only a weak correlation with profitability, suggesting that increasing position size alone does not guarantee better returns.
+- Execution price has minimal impact on profit outcomes, highlighting the importance of timing and strategy rather than price level alone.
+- Consistent traders tend to achieve more stable returns compared to traders relying on occasional large profits.
+- Clustering analysis reveals distinct trader profiles based on trading frequency, trade size, and profitability patterns.
+- Different trader groups exhibit varying levels of risk exposure and performance stability.
+
+---
+
+## Strategy Recommendations
+
+- Adjust trade size based on market sentiment. During Fear conditions, reducing position size can help manage downside risk and improve consistency.
+- Focus on consistent trading behaviour rather than relying on infrequent high-risk trades.
+- Incorporate sentiment indicators such as Fear & Greed Index to improve decision-making and align trading strategies with market mood.
+- Emphasize risk-adjusted performance metrics instead of only maximizing trade size.
+- Use trader segmentation insights to identify behavioural patterns and optimize trading strategies accordingly.
 
 ---
 
