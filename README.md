@@ -83,3 +83,15 @@ This helps identify different trading styles and performance patterns.
 ---
 
 ## Project Structure
+trader-sentiment-analysis/
+│
+├── primetrade_analysis.ipynb # Main analysis notebook
+├── historical_data.xlsx # Historical trade dataset
+├── fear_greed_index.xlsx # Market sentiment dataset
+│
+├── screenshots/ # Charts and visualization images
+│ ├── correlation_heatmap.png
+│ ├── sentiment_vs_pnl.png
+│ ├── trader_clusters.png
+│
+└── README.md # Project documentation
