@@ -90,30 +90,6 @@ This helps identify different trading styles and performance patterns.
 
 ---
 
-## Visual Insights
-
-### Sentiment vs Profitability
-
-<p align="center">
-  <img src="Screenshot 2026-03-25 170053.png" width="500"/>
-</p>
-
-
-### Feature Correlation Heatmap
-
-<p align="center">
-  <img src="Screenshot 2026-03-25 170053.png" width="500"/>
-</p>
-
-
-### Trader Segmentation (Clustering)
-
-<p align="center">
-  <img src="Screenshot 2026-03-25 170053.png" width="500"/>
-</p>
-
----
-
 ## Key Insights
 
 - Market sentiment influences trading behaviour and profitability patterns.
