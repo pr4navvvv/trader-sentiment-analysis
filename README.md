@@ -78,6 +78,15 @@ This helps identify different trading styles and performance patterns.
 - Different trader groups exhibit distinct risk and performance profiles
 
 ---
+![WhatsApp Image 2026-03-25 at 5 00 01 PM](https://github.com/user-attachments/assets/086272b1-7a81-4adc-a033-2241c9e94092)
+![WhatsApp Image 2026-03-25 at 5 00 20 PM](https://github.com/user-attachments/assets/109ebcd3-894b-446d-82b8-df812215c6b6)
+![WhatsApp Image 2026-03-25 at 5 00 35 PM](https://github.com/user-attachments/assets/e73aceb5-4e97-49b0-96ab-782f2510a013)
+![WhatsApp Image 2026-03-25 at 5 00 54 PM](https://github.com/user-attachments/assets/852645bd-91c3-4f6f-9af3-2553b6d71872)
+![WhatsApp Image 2026-03-25 at 9 07 20 PM](https://github.com/user-attachments/assets/264376d5-debe-4aba-a428-90a8abe4c543)
+![WhatsApp Image 2026-03-25 at 9 07 34 PM](https://github.com/user-attachments/assets/3abd2d3e-32b7-446b-86b4-baa9a0761b07)
+![WhatsApp Image 2026-03-25 at 9 07 47 PM](https://github.com/user-attachments/assets/81983e97-ad09-4377-94c5-48544fe9dc96)
+![WhatsApp Image 2026-03-25 at 9 08 06 PM](https://github.com/user-attachments/assets/5cfbaaa4-9741-452d-8a5a-1006cb7d7f35)
+
 
 ## Key Insights
 
