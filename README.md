@@ -90,8 +90,72 @@ This helps identify different trading styles and performance patterns.
 
 ---
 
-## Key Insights
+## Visual Insights
 
+### 1. Trader Consistency Distribution
+<p align="center">
+<img src="Screenshot 2026-03-25 170053.png" width="400"/>
+</p>
+
+---
+
+### 2. Trading Behaviour Metrics by Market Sentiment
+<p align="center">
+<img src="WhatsApp Image 2026-03-25 at 5.00.01 PM.jpeg" width="700"/>
+</p>
+
+---
+
+### 3. Average Trades per Day per Trader, Average Trade Size (USD), Long Ratio (%) by Market Sentiment
+<p align="center">
+<img src="WhatsApp Image 2026-03-25 at 5.00.20 PM.jpeg" width="700"/>
+</p>
+
+---
+
+### 4. Impact of Trade Size on Profitability and Win Rate
+<p align="center">
+<img src="WhatsApp Image 2026-03-25 at 5.00.35 PM.jpeg" width="600"/>
+</p>
+
+---
+
+### 5. Feature Importance for Predicting Profitability
+<p align="center">
+<img src="WhatsApp Image 2026-03-25 at 5.01.08 PM.jpeg" width="500"/>
+</p>
+
+---
+
+### 6. PnL Distribution across Market Sentiment
+<p align="center">
+<img src="WhatsApp Image 2026-03-25 at 9.07.20 PM.jpeg" width="500"/>
+</p>
+
+---
+
+### 7. Long vs Short Trades Distribution by Market Sentiment
+<p align="center">
+<img src="WhatsApp Image 2026-03-25 at 9.07.34 PM.jpeg" width="500"/>
+</p>
+
+---
+
+### 8. Trader Segmentation using K-Means Clustering
+<p align="center">
+<img src="WhatsApp Image 2026-03-25 at 9.07.47 PM.jpeg" width="500"/>
+</p>
+
+---
+
+### 9. Feature Correlation Heatmap (PnL, Trade Size, Execution Price)
+<p align="center">
+<img src="WhatsApp Image 2026-03-25 at 9.08.06 PM.jpeg" width="500"/>
+</p>
+
+---
+
+## Key Insights
 - Market sentiment influences trading behaviour and profitability patterns.
 - Trades executed during **Extreme Greed** periods show higher average PnL but also higher variability, indicating increased risk-taking behaviour.
 - Trade size has only a weak correlation with profitability, suggesting that increasing position size alone does not guarantee better returns.
