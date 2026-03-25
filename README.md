@@ -78,6 +78,7 @@ This helps identify different trading styles and performance patterns.
 - Different trader groups exhibit distinct risk and performance profiles
 
 ---
+
 ![WhatsApp Image 2026-03-25 at 5 00 01 PM](https://github.com/user-attachments/assets/086272b1-7a81-4adc-a033-2241c9e94092)
 ![WhatsApp Image 2026-03-25 at 5 00 20 PM](https://github.com/user-attachments/assets/109ebcd3-894b-446d-82b8-df812215c6b6)
 ![WhatsApp Image 2026-03-25 at 5 00 35 PM](https://github.com/user-attachments/assets/e73aceb5-4e97-49b0-96ab-782f2510a013)
@@ -87,6 +88,31 @@ This helps identify different trading styles and performance patterns.
 ![WhatsApp Image 2026-03-25 at 9 07 47 PM](https://github.com/user-attachments/assets/81983e97-ad09-4377-94c5-48544fe9dc96)
 ![WhatsApp Image 2026-03-25 at 9 08 06 PM](https://github.com/user-attachments/assets/5cfbaaa4-9741-452d-8a5a-1006cb7d7f35)
 
+---
+
+## Visual Insights
+
+### Sentiment vs Profitability
+
+<p align="center">
+  <img src="Screenshot 2026-03-25 170053.png" width="500"/>
+</p>
+
+
+### Feature Correlation Heatmap
+
+<p align="center">
+  <img src="Screenshot 2026-03-25 170053.png" width="500"/>
+</p>
+
+
+### Trader Segmentation (Clustering)
+
+<p align="center">
+  <img src="Screenshot 2026-03-25 170053.png" width="500"/>
+</p>
+
+---
 
 ## Key Insights
 
